@@ -1,4 +1,4 @@
-Django==1.4
+Django==1.11.28
 south==0.7.3
 celery==2.5.1
 django-celery==2.4.2
